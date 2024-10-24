@@ -2,11 +2,11 @@
 // @name        Blum X dogs
 // @namespace   Violentmonkey Scripts
 // @match       https://telegram.blum.codes/*
-// @grant       none
 // @version     2024-10-21
 // @author      Mokhoa.vn
-// @icon         https://github.com/user-attachments/assets/83a95936-9231-41bb-b04c-8e19ff323281
 // @description Mặt trời lên cao nhìn ta ngủ
+// @icon        https://github.com/user-attachments/assets/83a95936-9231-41bb-b04c-8e19ff323281
+// @grant       none
 // ==/UserScript==
 const _0x529e64 = _0x587d;
 (function(_0x5a99ea, _0x57750c) {
